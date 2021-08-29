@@ -10,7 +10,8 @@
 * Under my projects, click on a Project's title or the "View Project" button to have a glimpse of each project.
 ## Known Bugs
 {When the webpage is viewed on smaller devices, it gets distorted}
-{Languages used: HTML and CSS.}
+##Languages used
+{HTML and CSS.}
 ## Support and contact details
 {emelda.perez@student.moringaschool.com}
 ### License
