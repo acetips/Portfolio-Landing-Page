@@ -55,6 +55,7 @@
     border: solid 2px;
     border-color: white;
 }
-#body{
-    background-color: lightgrey;
+.img2{
+    float: left;
+    width: 30%;
 }
