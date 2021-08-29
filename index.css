@@ -57,7 +57,7 @@
 }
 .img2{
     float: left;
-    width: 50%;
+    width: 40%;
     margin-top: 0px;
     margin-right: 50px;
     border-radius: 0 80px 0px 80px;
@@ -68,6 +68,7 @@
     color: turquoise;
     background-color: black;
     margin-top: 0px;
+    padding-left: 500px;
 }
 #body>h2{
 
@@ -79,7 +80,7 @@
     font-style: oblique;
 }
 #body{
-    background-color: turquoise;
+    background-color: white;
 }
 strong{
     font-weight: bolder;
@@ -87,4 +88,8 @@ strong{
 .Programming{
     font-style: normal;
     font-size: 20px;
+    font-weight: lighter;
+}
+.interestshobbies{
+    background-image: url(https://thumbs.dreamstime.com/b/abstract-blue-striped-retro-comic-background-halftone-corners-cartoon-turquoise-stripes-half-tone-pattern-comics-book-162441257.jpg);
 }
