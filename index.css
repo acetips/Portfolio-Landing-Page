@@ -95,8 +95,15 @@ strong{
     width: 30%;
     display: flex;
     justify-content: space-between;
-    margin-left: 100px;
+    margin-left: 300px;
     padding: 100px;
     padding-right: -2000px;
-
-    
+}
+#projects{
+    background-color: turquoise;
+}
+#projects>h1{
+    color: turquoise;
+    background-color: black;
+    text-align: center;
+}
