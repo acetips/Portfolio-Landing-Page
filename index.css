@@ -57,8 +57,34 @@
 }
 .img2{
     float: left;
-    width: 30%;
+    width: 50%;
+    margin-top: 0px;
+    margin-right: 50px;
+    border-radius: 0 80px 0px 80px;
+    margin-left: 20px;
 }
 #body>h1{
     text-align: center;
+    color: turquoise;
+    background-color: black;
+    margin-top: 0px;
+}
+#body>h2{
+
+}
+.font{
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 40px;
+    font-style: oblique;
+}
+#body{
+    background-color: turquoise;
+}
+strong{
+    font-weight: bolder;
+}
+.Programming{
+    font-style: normal;
+    font-size: 20px;
 }
