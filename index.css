@@ -1,5 +1,5 @@
 #header{
-    background-color: royalblue;
+    background-color: turquoise;
     color: white;
 }
 #header>img{
@@ -22,11 +22,21 @@
     margin-left: 50px;
 }
 #header>h2{
-    padding-bottom: 20px;
+    padding-bottom: 60px;
     color: black;
 }
 .button1{
     background-color: white;
     color: royalblue;
-   
+    width: 40%;
+    border-radius: 60px;
+    text-align: center;
+    padding-bottom: 50px;
+    font-size: small;
+}
+.button2{
+    color: white;
+    font-size: 2px;
+    font-weight: normal;
+    background-color: royalblue;
 }
