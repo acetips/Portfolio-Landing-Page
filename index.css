@@ -92,6 +92,11 @@ strong{
 }
 .interestshobbies{
     background-image: url(https://thumbs.dreamstime.com/b/abstract-blue-striped-retro-comic-background-halftone-corners-cartoon-turquoise-stripes-half-tone-pattern-comics-book-162441257.jpg);
-    width: 70%;
+    width: 30%;
     display: flex;
-}
+    justify-content: space-between;
+    margin-left: 100px;
+    padding: 100px;
+    padding-right: -2000px;
+
+    
