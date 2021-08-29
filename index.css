@@ -22,6 +22,11 @@
     margin-left: 50px;
 }
 #header>h2{
-    padding-bottom: 60px;
+    padding-bottom: 20px;
     color: black;
+}
+.button1{
+    background-color: white;
+    color: royalblue;
+   
 }
