@@ -9,7 +9,7 @@
 * Click on 'My Projects' button on the header section to see the projects I have worked on.
 * Under my projects, click on a Project's title or the "View Project" button to have a glimpse of each project.
 ## Known Bugs
-{When the webpage is viewed on smaller devices, it gets distorted}
+{When the webpage is not responsive when viewed on smaller devices}
 ## Technologies Used
 {HTML and CSS.}
 ## Support and contact details
