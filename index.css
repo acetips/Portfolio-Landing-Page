@@ -105,7 +105,7 @@ strong{
 }
 #projects{
     background-color: turquoise;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
 }
 #projects>h1{
     color: turquoise;
@@ -122,4 +122,44 @@ strong{
     text-align: center;
     padding: 50px;
     margin-left: 100px;
+}
+.orange{
+    background-color: rgb(226, 151, 12);
+    width: 20%;
+    border-radius: 60px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 10px;
+}
+.darkblue{
+    background-color: darkblue;
+    color: white;
+    width: 20%;
+    border-radius: 60px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 10px;
+}
+.purple{
+    background-color: purple;
+    color: white;
+    width: 20%;
+    border-radius: 60px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 10px;
+}
+
+.yellow{
+    background-color: yellow;
+    color: black;
+    width: 20%;
+    border-radius: 60px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 10px;
 }
